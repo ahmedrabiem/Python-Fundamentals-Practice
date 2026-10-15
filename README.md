@@ -67,8 +67,6 @@ Applying Python concepts through libraries and practical work.
 - Web Scraping
 - Python Revision
 
-### 07. Review
-A temporary area for files that need further review and classification.
 
 ## 🛠️ Tools & Technologies
 
